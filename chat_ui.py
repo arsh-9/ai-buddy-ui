@@ -196,7 +196,7 @@ def inject_custom_css() -> None:
         background: rgba(255,255,255,.06) !important;
         border: 1px solid rgba(108,99,255,.35) !important;
         border-radius: 14px !important;
-        color: #fff !important;
+
         padding: .75rem 1rem !important;
         font-size: .95rem !important;
     }
